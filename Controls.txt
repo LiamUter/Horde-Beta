@@ -1,0 +1,54 @@
+W = Move Forward
+S = Move Backwards
+A = Move Right
+D = Move Left
+
+
+Space = Jump
+
+C = Crouch
+
+
+Left click mouse = Shoot
+
+Right Click Mouse = Aim in
+
+
+20pt for every kill.
+
+
+Press "DIK_GRAVE" (key next to one on the keyboard to view final score)
+
+
+Top scores so Far: 
+
+
+Harry Whitehead: 600
+
+Hahmed Shafiq: 350
+
+Maxwell Siddle: 350
+
+Joesph Seccombe: 300
+
+Emil: 280
+
+Rodney: 200
+
+Simon Hartery:120
+
+Alex Darby: 120
+
+Rupert Bagge: 80
+
+Alex Dalrymple: 80
+
+Leigh Marie Sky-Hobday: 60
+
+James Kelley: 60
+
+If you lose, Close the windows and try again
+
+
+
+Good luck :) 

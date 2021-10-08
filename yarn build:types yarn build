@@ -25,3 +25,4 @@ jobs:
           branch: gh-pages
           folder: dist
 Add workflow
+* @Org-Name/Team-Name
